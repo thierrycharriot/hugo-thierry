@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Portfolio</title>
+    <link>https://thierrycharriot.netlify.app/</link>
+    <description>Recent content in Home on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language><atom:link href="https://thierrycharriot.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mentions légales</title>
+      <link>https://thierrycharriot.netlify.app/mentions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thierrycharriot.netlify.app/mentions/</guid>
+      <description>Propriétaire du site : Thierry CharriotLe site Portfolio est un site personnel à caractère informatif. Les informations qui y sont publiées sont mises à disposition sans aucune garantie de quelque nature que ce soit.</description>
+    </item>
+    
+  </channel>
+</rss>
