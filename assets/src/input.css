@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+    @apply py-3;
+}
+
+.bibi-elevator {
+    @apply bg-green-600 hover:bg-green-900 text-green-50 font-bold py-3 px-3 border border-green-900 rounded fixed right-3 bottom-12 z-50 hover:transition hover:duration-300;
+}
+
+html { scroll-behavior: smooth; }
+article section a { color: dodgerblue; text-decoration: underline; } article section a:hover { text-decoration: none; }
+code { margin: 0.6rem 0; color: brown; white-space: pre-line; }
+img { margin: 1rem auto; width: 100%; }
+
+section img { max-inline-size: 75%; block-size: auto; aspect-ratio: 2/1; object-fit: cover; }
+
+/* https://tailwindcss.com/docs/font-size */
+h1 { font-size: 2.25rem; /* 36px */ line-height: 2.5rem; /* 40px */ }
+h2 { font-size: 1.875rem; /* 30px */ line-height: 2.25rem; /* 36px */ }
+h3 { font-size: 1.5rem; /* 24px */ line-height: 2rem; /* 32px */ }
+h4 { font-size: 1.25rem; /* 20px */ line-height: 1.75rem; /* 28px */ }
+h5 { font-size: 1.125rem; /* 18px */ line-height: 1.75rem; /* 28px */ }
+
+.portrait {
+    width: 180px;
+    height: 240px;
+    border-radius: 50%;
+}
+
+.parallax {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.certificates {
+    width: 96px;
+    height: 96px;
+}

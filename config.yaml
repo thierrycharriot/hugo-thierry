@@ -1,0 +1,39 @@
+# Basic setup
+#baseURL:        ''
+baseURL:        'https://thierrycharriot.netlify.app'
+languageCode:   'fr-FR'
+title:          'Portfolio'
+
+#publishDir:     ''
+
+# Content setup
+paginate:       2
+summaryLength: 18
+
+# Menu setup
+menu:
+  main:
+  - name:     Accueil
+    pageRef:  /
+    weight:   10
+#  - name:     Contact
+#    pageRef:  /contact
+#    weight:   30
+  - name:     Mentions légales
+    pageRef:  /mentions
+    weight:   40
+
+# Parameter settings
+params:
+  author:       'Thierry Charriot'
+  description:  'Portfolio Développeur Web Web Mobile'
+  email:        'mrcharriot(signe bizarre)gmail.com'
+  github:       'https://github.com/thierrycharriot'
+
+  portrait:     'images/IMG_20221109_110233w180.webp'
+  parallax1:    'img/parallax-top.webp'
+  parallax2:    'img/parallax-middle.webp'
+  parallax3:    'img/parallax-bottom.webp'
+  certificates: 'img/certificate-1356.svg'
+
+
