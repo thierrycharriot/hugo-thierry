@@ -4,7 +4,10 @@ baseURL:        'https://thierrycharriot.netlify.app'
 languageCode:   'fr-FR'
 title:          'Portfolio'
 
-#publishDir:     ''
+#publishDir:     '/home/lin/SyncFree/FreePublic/docker-compose-lamp/www/Desktop/public-thierry'
+# Commenter obligatoirement pour netlify.
+
+googleAnalytics: 
 
 # Content setup
 paginate:       2
@@ -18,10 +21,10 @@ menu:
     weight:   10
 #  - name:     Contact
 #    pageRef:  /contact
-#    weight:   30
+#    weight:   20
   - name:     Mentions légales
     pageRef:  /mentions
-    weight:   40
+    weight:   30
 
 # Parameter settings
 params:
