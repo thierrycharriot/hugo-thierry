@@ -19,12 +19,9 @@ menu:
   - name:     Accueil
     pageRef:  /
     weight:   10
-#  - name:     Contact
-#    pageRef:  /contact
-#    weight:   20
   - name:     Mentions légales
     pageRef:  /mentions
-    weight:   30
+    weight:   20
 
 # Parameter settings
 params:
