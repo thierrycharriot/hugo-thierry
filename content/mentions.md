@@ -1,7 +1,9 @@
 ---
 title: "Mentions légales"
-date: 
+date: null
 draft: false
+menu: "main"
+weight: 20 
 ---
 
 {{< mentions >}}

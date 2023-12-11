@@ -13,16 +13,6 @@ googleAnalytics:
 paginate:       2
 summaryLength: 18
 
-# Menu setup
-menu:
-  main:
-  - name:     Accueil
-    pageRef:  /
-    weight:   10
-  - name:     Mentions légales
-    pageRef:  /mentions
-    weight:   20
-
 # Parameter settings
 params:
   author:       'Thierry Charriot'
