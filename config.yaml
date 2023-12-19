@@ -7,7 +7,7 @@ title:          'Portfolio'
 #publishDir:     '/home/lin/SyncFree/FreePublic/docker-compose-lamp/www/Desktop/public-thierry'
 # Commenter obligatoirement pour netlify.
 
-googleAnalytics: 
+googleAnalytics: G-1JM8DRG5K3
 
 # Content setup
 paginate:       2
