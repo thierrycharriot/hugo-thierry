@@ -1186,6 +1186,10 @@ h5 {
   background-repeat: no-repeat;
 }
 
+.parallax-15 {
+  height: 15vh
+}
+
 .certificates {
   width: 96px;
   height: 96px;
